@@ -1,0 +1,23 @@
+header{
+  background-color: #fff;
+  color: red;
+  margin-left: 20px;
+  padding-top: 20px;
+}
+h2{
+  font-size: 50px;
+}
+.main {
+  background-color: #e6e6fa;
+  height: auto;
+  width: auto;
+}
+p {
+  margin-right: 100px;
+  margin: 20px;
+  font-size: 40px;
+}
+img{
+  weight: 400px;
+  height: 200px;
+}
